@@ -1,0 +1,5 @@
+D:\HK5\PRN292\BHJewlryManagement\JewlryManager\bin\Debug\JewlryManager.dll
+D:\HK5\PRN292\BHJewlryManagement\JewlryManager\bin\Debug\JewlryManager.pdb
+D:\HK5\PRN292\BHJewlryManagement\JewlryManager\obj\Debug\JewlryManager.csprojAssemblyReference.cache
+D:\HK5\PRN292\BHJewlryManagement\JewlryManager\obj\Debug\JewlryManager.dll
+D:\HK5\PRN292\BHJewlryManagement\JewlryManager\obj\Debug\JewlryManager.pdb
